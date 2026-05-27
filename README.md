@@ -4,6 +4,9 @@ This project is completed as part of the Machine Learning Internship at SkillCra
 
 ## Objective
 To classify images of cats and dogs using Support Vector Machine (SVM).
+## Dataset
+Kaggle Cats and Dogs Dataset:
+https://www.kaggle.com/datasets/salader/dogs-vs-cats
 
 ## Technologies Used
 - Python
